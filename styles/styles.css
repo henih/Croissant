@@ -1,0 +1,21 @@
+body {
+  background: lightcoral;
+  text-align: center;
+  color: white;
+  width: auto;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+img {
+  max-width: 600px;
+}
